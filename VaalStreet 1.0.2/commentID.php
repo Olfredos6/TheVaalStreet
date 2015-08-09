@@ -1,0 +1,4 @@
+<?php
+//Variables
+echo $ID;
+?>

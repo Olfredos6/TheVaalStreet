@@ -1,0 +1,4 @@
+    <a href="home.php?content=requested" style="color:#FFF; font-size:12px; font-family:\'Comic Sans MS\', cursive; background-color:#636; text-decoration:inherit">&nbsp;Home </a>&nbsp;
+    <a href="home.php?notifications=requested" style="color:#FFF; font-size:12px; font-family:\'Comic Sans MS\', cursive; background-color:#636; text-decoration:inherit">&nbsp;Notifications </a>&nbsp;
+    <a href="home.php?myAccount=requested" style="color:#FFF; font-size:12px; font-family:\'Comic Sans MS\', cursive; background-color:#636; text-decoration:inherit">&nbsp;My Account </a>&nbsp;
+    <a href="home.php?logOut=requested" style="color:#FFF; font-size:12px; font-family:\'Comic Sans MS\', cursive; background-color:#636; text-decoration:inherit">&nbsp;Log Out </a>&nbsp;

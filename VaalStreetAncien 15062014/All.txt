@@ -1,0 +1,19 @@
+VaalStreet 	Ideas
+
+- A social network
+- A client can 
+	create an account on
+ 	Reads post
+- Can access posts without account
+	but can't comment mark it
+
+*********** To DO ****************
+
+- Main Design			OK
+- Index Page			OK
+- LogIn and SignIn pages	
+- account creation		
+- account connection
+- posting
+- post marking
+- contact page
